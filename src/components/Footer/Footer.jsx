@@ -61,13 +61,13 @@ class Footer extends Component {
               </address>
             </li>
             <li>
-              <a href="tel:+212698584458" className="text">
-                Tel : +212698584458
+              <a href="tel:+917318886644" className="text">
+                Tel : +917318886644
               </a>
             </li>
             <li>
-              <a href="mailto:lormail@gmail.com" className="text">
-                Email: lormail@gmail.com
+              <a href="mailto:infotechsoftwaresolution2024@gmail.com" className="text">
+                Email: infotechsoftwaresolution2024@gmail.com
               </a>
             </li>
           </ul>
